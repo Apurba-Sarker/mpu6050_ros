@@ -1,0 +1,2 @@
+imu_python:mpu6050_imu_ros/mpu6050_imu_converter:mpu6050_imu_ros/mpu6050_imu_driver
+-DCATKIN_DEVEL_PREFIX=/home/apurba/imu/devel -DCMAKE_INSTALL_PREFIX=/home/apurba/imu/install -G Unix Makefiles

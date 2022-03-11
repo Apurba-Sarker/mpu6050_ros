@@ -1,0 +1,8 @@
+prefix=/home/apurba/imu/devel
+
+Name: imu_python
+Description: Description of imu_python
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
